@@ -1,4 +1,6 @@
-# Document Processing and Semantic Search API
+# Intelligent Document Analysis and Exploration
+
+## Description
 
 A Flask-based API for document processing, semantic search, and knowledge graph integration using NLP techniques.
 
