@@ -58,6 +58,8 @@ curl -X POST -H "Content-Type: application/json" \
 ### Get Document Entities
 
 
+
 ```bash
 curl http://localhost:5000/entities/0
 ```
+
